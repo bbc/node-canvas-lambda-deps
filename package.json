@@ -1,6 +1,6 @@
 {
   "name": "node-canvas-lambda-deps",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Node Canvas AWS Lambda dependencies i.e. compiled shared object files for Cairo, Pixman, libpng, libjpeg etc.",
   "main": "index.js",
   "scripts": {
