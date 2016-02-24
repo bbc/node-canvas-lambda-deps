@@ -1,0 +1,28 @@
+{
+  "name": "node-canvas-lambda-deps",
+  "version": "1.0.0",
+  "description": "Node Canvas AWS Lambda dependencies i.e. compiled shared object files for Cairo, Pixman, libpng, libjpeg etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbc/node-canvas-lambda-deps.git"
+  },
+  "keywords": [
+    "canvas",
+    "node-canvas",
+    "aws",
+    "lambda",
+    "cairo",
+    "shared",
+    "objects"
+  ],
+  "author": "Will Bamford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbc/node-canvas-lambda-deps/issues"
+  },
+  "homepage": "https://github.com/bbc/node-canvas-lambda-deps#readme"
+}
